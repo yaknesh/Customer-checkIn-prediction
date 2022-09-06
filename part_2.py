@@ -152,7 +152,6 @@ result_predict=model.predict(test)
 
 result_predict[:20]
 
-pip install streamlit
 
 import streamlit as st
 
