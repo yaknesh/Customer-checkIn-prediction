@@ -7,6 +7,6 @@ Ans: Not like particularly single problem. Before as a designer i had to work ne
 
 Explain back propagation and tell us how you handle a dataset if 4 out of 30 parameters have null values more than 40 percentage?
 
-Back-Propagation is a fine tuning based on the errors or loss from pevious epoch.
+Ans: Back-Propagation is a fine tuning based on the errors or loss from pevious epoch.
 In 30 parameters 4 has more null value in that case first i drop those parameters and make a model. After that filling the null values with respect to
 the kind of dataset.
